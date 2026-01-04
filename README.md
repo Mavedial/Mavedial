@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-I'm Mavedial, a French CS student.
-You can look for my different work in my profile.
+💻 I'm Mavedial, a French CS student. 
+
+📖You can look for my different work in my profile.
+
 Most of them are projects i have completed for University.
 <!--
 **Mavedial/Mavedial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
